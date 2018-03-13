@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/grades",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

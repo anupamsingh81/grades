@@ -1,0 +1,506 @@
+]0;/home/anupam/Documents/grades]0;anupam@anupam-Lenovo-Yoga-500-14IBD: ~/Documents/grades[01;32manupam@anupam-Lenovo-Yoga-500-14IBD[00m:[01;34m~/Documents/grades[00m$ sudo su
+[sudo] password for anupam: 
+]0;root@anupam-Lenovo-Yoga-500-14IBD: /home/anupam/Documents/gradesroot@anupam-Lenovo-Yoga-500-14IBD:/home/anupam/Documents/grades# R
+
+R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> u[Kinstall.packages('hrbrthemes')
+Installing package into ‘/usr/local/lib/R/site-library’
+(as ‘lib’ is unspecified)
+--- Please select a CRAN mirror for use in this session ---
+^C
+> devtools::install_github("hrbrmstr/hrbrthemes")
+Downloading GitHub repo hrbrmstr/hrbrthemes@master
+from URL https://api.github.com/repos/hrbrmstr/hrbrthemes/zipball/master
+Installing hrbrthemes
+Installation failed: error reading from connection
+> devtools::install_github("hrbrmstr/hrbrthemes")
+Downloading GitHub repo hrbrmstr/hrbrthemes@master
+from URL https://api.github.com/repos/hrbrmstr/hrbrthemes/zipball/master
+Installing hrbrthemes
+Installation failed: error reading from connection
+> library(devtools)
+> devtools::install_github("hrbrmstr/hrbrthemes")
+Downloading GitHub repo hrbrmstr/hrbrthemes@master
+from URL https://api.github.com/repos/hrbrmstr/hrbrthemes/zipball/master
+Installing hrbrthemes
+Installation failed: error reading from connection
+> devtools::install_github("hrbrmstr/hrbrthemes")[1Pinstall_github("hrbrmstr/hrbrthemes")[C[C[C[C[C[C[C[C[C[C[C[1Pinstall_github("hrbrmstr/hrbrthemes")[C[C[C[C[C[C[C[C[C[C[1Pinstall_github("hrbrmstr/hrbrthemes")[C[C[C[C[C[C[C[C[C[1Pinstall_github("hrbrmstr/hrbrthemes")[C[C[C[C[C[C[C[C[1Pinstall_github("hrbrmstr/hrbrthemes")[C[C[C[C[C[C[C[1Pinstall_github("hrbrmstr/hrbrthemes")[C[C[C[C[C[C[1Pinstall_github("hrbrmstr/hrbrthemes")[C[C[C[C[C[1Pinstall_github("hrbrmstr/hrbrthemes")[C[C[C[C[1Pinstall_github("hrbrmstr/hrbrthemes")[C[C[C[1Pinstall_github("hrbrmstr/hrbrthemes")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Downloading GitHub repo hrbrmstr/hrbrthemes@master
+from URL https://api.github.com/repos/hrbrmstr/hrbrthemes/zipball/master
+Installing hrbrthemes
+Installation failed: error reading from connection
+> install_github("kbroman/broman")
+Downloading GitHub repo kbroman/broman@master
+from URL https://api.github.com/repos/kbroman/broman/zipball/master
+Installing broman
+Installation failed: error reading from connection
+> install.pak[Kckages('devtools')
+Installing package into ‘/usr/local/lib/R/site-library’
+(as ‘lib’ is unspecified)
+Error in readRDS(dest) : error reading from connection
+> q()
+Save workspace image? [y/n/c]: n
+]0;root@anupam-Lenovo-Yoga-500-14IBD: /home/anupam/Documents/gradesroot@anupam-Lenovo-Yoga-500-14IBD:/home/anupam/Documents/grades# R
+
+R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> install.[K[K[K[K[K[K[K[Kdevtools::install_github("kbroman/broman")
+Downloading GitHub repo kbroman/broman@master
+from URL https://api.github.com/repos/kbroman/broman/zipball/master
+Installing broman
+^C
+> devtools::install_github("hrbrmstr/hrbrthemes")
+Downloading GitHub repo hrbrmstr/hrbrthemes@master
+from URL https://api.github.com/repos/hrbrmstr/hrbrthemes/zipball/master
+Installing hrbrthemes
+Installation failed: error reading from connection
+> q()
+Save workspace image? [y/n/c]: n
+]0;root@anupam-Lenovo-Yoga-500-14IBD: /home/anupam/Documents/gradesroot@anupam-Lenovo-Yoga-500-14IBD:/home/anupam/Documents/grades# R
+
+R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> devtools::install_github("hrbrmstr/hrbrthemes")
+Downloading GitHub repo hrbrmstr/hrbrthemes@master
+from URL https://api.github.com/repos/hrbrmstr/hrbrthemes/zipball/master
+Installing hrbrthemes
+^C
+> install.packages("githubinstall")
+Installing package into ‘/usr/local/lib/R/site-library’
+(as ‘lib’ is unspecified)
+--- Please select a CRAN mirror for use in this session ---
+Error in readRDS(dest) : error reading from connection
+> install.packages("githubinstall")
+Installing package into ‘/usr/local/lib/R/site-library’
+(as ‘lib’ is unspecified)
+Error in readRDS(dest) : error reading from connection
+> install.packages("githubinstall")
+Installing package into ‘/usr/local/lib/R/site-library’
+(as ‘lib’ is unspecified)
+Error in readRDS(dest) : error reading from connection
+> q()
+Save workspace image? [y/n/c]: n
+]0;root@anupam-Lenovo-Yoga-500-14IBD: /home/anupam/Documents/gradesroot@anupam-Lenovo-Yoga-500-14IBD:/home/anupam/Documents/grades# R
+
+R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> install.packages("githubinstall")
+Installing package into ‘/usr/local/lib/R/site-library’
+(as ‘lib’ is unspecified)
+--- Please select a CRAN mirror for use in this session ---
+also installing the dependency ‘mockery’
+
+trying URL 'https://cran.revolutionanalytics.com/src/contrib/mockery_0.4.1.tar.gz'
+Content type 'application/octet-stream' length 22545 bytes (22 KB)
+==================================================
+downloaded 22 KB
+
+trying URL 'https://cran.revolutionanalytics.com/src/contrib/githubinstall_0.2.2.tar.gz'
+Content type 'application/octet-stream' length 27939 bytes (27 KB)
+==================================================
+downloaded 27 KB
+
+* installing *source* package ‘mockery’ ...
+** package ‘mockery’ successfully unpacked and MD5 sums checked
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (mockery)
+* installing *source* package ‘githubinstall’ ...
+** package ‘githubinstall’ successfully unpacked and MD5 sums checked
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (githubinstall)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpg3YGkh/downloaded_packages’
+> devtools::install_github("hrbrmstr/hrbrthemes")
+Downloading GitHub repo hrbrmstr/hrbrthemes@master
+from URL https://api.github.com/repos/hrbrmstr/hrbrthemes/zipball/master
+Installing hrbrthemes
+^C
+> library(githubinstall)
+> githubinstall('hrbrthemes')
+Select a number or, hit 0 to cancel. 
+
+1: YTLogos/hrbrthemes   
+2: hrbrmstr/hrbrthemes  :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components
+
+Selection: 2
+Suggestion:
+ - hrbrmstr/hrbrthemes  :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components
+Do you want to install the package (Y/n)?  Y
+Downloading GitHub repo hrbrmstr/hrbrthemes@master
+from URL https://api.github.com/repos/hrbrmstr/hrbrthemes/zipball/master
+Installing hrbrthemes
+Installation failed: error reading from connection
+> source <- devtools:::source_pkg('hrbrthemes-master')
+> library(dec[Kvtools)
+> install(source)
+Installing hrbrthemes
+Error in readRDS(dest) : error reading from connection
+R
+
+R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> inst[K[K[K[Kq()
+Save workspace image? [y/n/c]: n
+]0;/home/anupam/Documents/grades]0;anupam@anupam-Lenovo-Yoga-500-14IBD: ~/Documents/grades[01;32manupam@anupam-Lenovo-Yoga-500-14IBD[00m:[01;34m~/Documents/grades[00m$ clear
+[3;J[H[2J]0;/home/anupam/Documents/grades]0;anupam@anupam-Lenovo-Yoga-500-14IBD: ~/Documents/grades[01;32manupam@anupam-Lenovo-Yoga-500-14IBD[00m:[01;34m~/Documents/grades[00m$ sudo su
+[sudo] password for anupam: 
+]0;root@anupam-Lenovo-Yoga-500-14IBD: /home/anupam/Documents/gradesroot@anupam-Lenovo-Yoga-500-14IBD:/home/anupam/Documents/grades# R
+
+R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> install.packages('hrbrthemes')
+Installing package into ‘/usr/local/lib/R/site-library’
+(as ‘lib’ is unspecified)
+--- Please select a CRAN mirror for use in this session ---
+^C
+> install.packages('hr[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kq()
+Save workspace image? [y/n/c]: n
+]0;root@anupam-Lenovo-Yoga-500-14IBD: /home/anupam/Documents/gradesroot@anupam-Lenovo-Yoga-500-14IBD:/home/anupam/Documents/grades# clear
+[3;J[H[2J]0;root@anupam-Lenovo-Yoga-500-14IBD: /home/anupam/Documents/gradesroot@anupam-Lenovo-Yoga-500-14IBD:/home/anupam/Documents/grades# R
+
+R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> install.packages('hrbrthemes')
+Installing package into ‘/usr/local/lib/R/site-library’
+(as ‘lib’ is unspecified)
+--- Please select a CRAN mirror for use in this session ---
+also installing the dependencies ‘extrafontdb’, ‘Rttf2pt1’, ‘extrafont’
+
+trying URL 'https://mirrors.sorengard.com/cran/src/contrib/extrafontdb_1.0.tar.gz'
+Content type 'application/x-gzip' length 1672 bytes
+==================================================
+downloaded 1672 bytes
+
+trying URL 'https://mirrors.sorengard.com/cran/src/contrib/Rttf2pt1_1.3.6.tar.gz'
+Content type 'application/x-gzip' length 220741 bytes (215 KB)
+==================================================
+downloaded 215 KB
+
+trying URL 'https://mirrors.sorengard.com/cran/src/contrib/extrafont_0.17.tar.gz'
+Content type 'application/x-gzip' length 15562 bytes (15 KB)
+==================================================
+downloaded 15 KB
+
+trying URL 'https://mirrors.sorengard.com/cran/src/contrib/hrbrthemes_0.1.0.tar.gz'
+Content type 'application/x-gzip' length 956902 bytes (934 KB)
+==================================================
+downloaded 934 KB
+
+* installing *source* package ‘extrafontdb’ ...
+** package ‘extrafontdb’ successfully unpacked and MD5 sums checked
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (extrafontdb)
+* installing *source* package ‘Rttf2pt1’ ...
+** package ‘Rttf2pt1’ successfully unpacked and MD5 sums checked
+** libs
+** arch - 
+echo "make ttf2pt1 in ttf2pt1/ ..."
+make ttf2pt1 in ttf2pt1/ ...
+(cd ttf2pt1; make CC="`"/usr/lib/R/bin/R" CMD config CC`" CFLAGS="`"/usr/lib/R/bin/R" CMD config CFLAGS`" ttf2pt1)
+make[1]: Entering directory '/tmp/RtmpAShits/R.INSTALL1a6a5e646a4f/Rttf2pt1/src/ttf2pt1'
+gcc -std=gnu99 -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -c ttf2pt1.c
+[01m[Kttf2pt1.c:[m[K In function ‘[01m[Kunicode_init_user[m[K’:
+[01m[Kttf2pt1.c:647:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint *[m[K’, but argument 3 has type ‘[01m[Kint[m[K’ [-Wformat=]
+   if(sscanf(buffer, "id %d %d", pid, eid)==2) {
+[01;32m[K                     ^[m[K
+[01m[Kttf2pt1.c:647:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint *[m[K’, but argument 4 has type ‘[01m[Kint[m[K’ [-Wformat=]
+gcc -std=gnu99 -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -c pt1.c
+[01m[Kpt1.c:[m[K In function ‘[01m[Kassertpath[m[K’:
+[01m[Kpt1.c:306:20:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+    fprintf(stderr, "unidirectional chain 0x%x -next-> 0x%x -prev-> 0x%x \n",
+[01;32m[K                    ^[m[K
+[01m[Kpt1.c:306:20:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+[01m[Kpt1.c:306:20:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 5 has type ‘[01m[Kstruct gentry *[m[K’ [-Wformat=]
+[01m[Kpt1.c:317:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+     fprintf(stderr, "empty path at 0x%x \n", ge);
+[01;32m[K                     ^[m[K
+[01m[Kpt1.c:325:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+     fprintf(stderr, "unidirectional chain 0x%x -frwd-> 0x%x -bkwd-> 0x%x \n",
+[01;32m[K                     ^[m[K
+[01m[Kpt1.c:325:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[Kstruct gentry *[m[K’ [-Wformat=]
+[01m[Kpt1.c:325:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 5 has type ‘[01m[Kstruct gentry *[m[K’ [-Wformat=]
+[01m[Kpt1.c:333:22:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+      fprintf(stderr, "broken first backlink 0x%x -bkwd-> 0x%x -next-> 0x%x \n",
+[01;32m[K                      ^[m[K
+[01m[Kpt1.c:333:22:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[Kstruct gentry *[m[K’ [-Wformat=]
+[01m[Kpt1.c:333:22:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 5 has type ‘[01m[Kstruct gentry *[m[K’ [-Wformat=]
+[01m[Kpt1.c:341:22:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+      fprintf(stderr, "broken loop 0x%x -...-> 0x%x -frwd-> 0x%x \n",
+[01;32m[K                      ^[m[K
+[01m[Kpt1.c:341:22:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+[01m[Kpt1.c:341:22:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 5 has type ‘[01m[Kstruct gentry *[m[K’ [-Wformat=]
+[01m[Kpt1.c:[m[K In function ‘[01m[Kfixcvends[m[K’:
+[01m[Kpt1.c:763:19:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+   fprintf(stderr, "**! fixcvends(0x%x) on floating entry, ABORT\n", ge);
+[01;32m[K                   ^[m[K
+[01m[Kpt1.c:[m[K In function ‘[01m[Kfixcvdir[m[K’:
+[01m[Kpt1.c:913:19:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+   fprintf(stderr, "**! fixcvdir(0x%x) on floating entry, ABORT\n", ge);
+[01;32m[K                   ^[m[K
+[01m[Kpt1.c:[m[K In function ‘[01m[Kfgetcvdir[m[K’:
+[01m[Kpt1.c:1043:19:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+   fprintf(stderr, "**! fgetcvdir(0x%x) on int entry, ABORT\n", ge);
+[01;32m[K                   ^[m[K
+[01m[Kpt1.c:[m[K In function ‘[01m[Kigetcvdir[m[K’:
+[01m[Kpt1.c:1105:19:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+   fprintf(stderr, "**! igetcvdir(0x%x) on floating entry, ABORT\n", ge);
+[01;32m[K                   ^[m[K
+[01m[Kpt1.c:[m[K In function ‘[01m[Kdumppaths[m[K’:
+[01m[Kpt1.c:1203:19:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+   fprintf(stderr, " %c %8x", mark, ge);
+[01;32m[K                   ^[m[K
+[01m[Kpt1.c:[m[K In function ‘[01m[Kfcheckcv[m[K’:
+[01m[Kpt1.c:1336:19:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+   fprintf(stderr, "**! fcheckcv(0x%x) on int entry, ABORT\n", ge);
+[01;32m[K                   ^[m[K
+[01m[Kpt1.c:[m[K In function ‘[01m[Kicheckcv[m[K’:
+[01m[Kpt1.c:1364:19:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+   fprintf(stderr, "**! icheckcv(0x%x) on floating entry, ABORT\n", ge);
+[01;32m[K                   ^[m[K
+[01m[Kpt1.c:[m[K In function ‘[01m[Kfindstemat[m[K’:
+[01m[Kpt1.c:2920:6:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 5 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+      "dbg: possible self-intersection at v=%d o=%d exp_ge=0x%x ge=0x%x\n",
+[01;32m[K      ^[m[K
+[01m[Kpt1.c:2920:6:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 6 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+[01m[Kpt1.c:[m[K In function ‘[01m[Kfstraighten[m[K’:
+[01m[Kpt1.c:3912:43:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+      if(ISDBG(STRAIGHTEN)) fprintf(stderr,"** straighten join with previous 0x%x 0x%x\n", pge, ge);
+[01;32m[K                                           ^[m[K
+[01m[Kpt1.c:3912:43:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+[01m[Kpt1.c:3927:43:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+      if(ISDBG(STRAIGHTEN)) fprintf(stderr,"** straighten join with next 0x%x 0x%x\n", ge, nge);
+[01;32m[K                                           ^[m[K
+[01m[Kpt1.c:3927:43:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+[01m[Kpt1.c:[m[K In function ‘[01m[Kffixquadrants[m[K’:
+[01m[Kpt1.c:4058:20:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+    fprintf(stderr, "%s: trying 0x%x (%g %g) (%g %g) (%g %g) (%g %g)\n  ", g->name,
+[01;32m[K                    ^[m[K
+[01m[Kpt1.c:4079:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+     fprintf(stderr, "%s: 0x%x: %d pts(%c): ", 
+[01;32m[K                     ^[m[K
+[01m[Kpt1.c:4130:20:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+    fprintf(stderr, "%s: splitting 0x%x (%g %g) (%g %g) (%g %g) (%g %g) at %d points\n  ", g->name,
+[01;32m[K                    ^[m[K
+[01m[Kpt1.c:4152:36:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+    if(ISDBG(QUAD)) fprintf(stderr, "   0x%x %g/%g\n", ge, k1, k2);
+[01;32m[K                                    ^[m[K
+[01m[Kpt1.c:[m[K In function ‘[01m[Kfdelsmall[m[K’:
+[01m[Kpt1.c:4692:20:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+    fprintf(stderr, "glyph %s has very small fragments(%x..%x..%x)\n", 
+[01;32m[K                    ^[m[K
+[01m[Kpt1.c:4692:20:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 5 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+[01m[Kpt1.c:4692:20:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 6 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+[01m[Kpt1.c:[m[K In function ‘[01m[Kfconcisecontour[m[K’:
+[01m[Kpt1.c:5943:20:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+    fprintf(stderr, ": 0x%x\nnext -> 0x%p ", pge, nge);
+[01;32m[K                    ^[m[K
+[01m[Kpt1.c:5977:20:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+    fprintf(stderr, ": 0x%x\n", nge);
+[01;32m[K                    ^[m[K
+[01m[Kpt1.c:6180:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 5 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+     fprintf(stderr, "(p=%p/%x n=0x%x/%x) ", pge, pgex->flags & GEXF_JLINE, 
+[01;32m[K                     ^[m[K
+[01m[Kpt1.c:[m[K In function ‘[01m[Kreversepathsfromto[m[K’:
+[01m[Kpt1.c:7069:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 3 has type ‘[01m[KGENTRY * {aka struct gentry *}[m[K’ [-Wformat=]
+     fprintf(stderr, "reverse path 0x%x <- 0x%x, 0x%x\n", ge, ge->prev, ge->bkwd);
+[01;32m[K                     ^[m[K
+[01m[Kpt1.c:7069:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 4 has type ‘[01m[Kstruct gentry *[m[K’ [-Wformat=]
+[01m[Kpt1.c:7069:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 5 has type ‘[01m[Kstruct gentry *[m[K’ [-Wformat=]
+gcc -std=gnu99 -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c runt1asm.c
+In file included from [01m[Krunt1asm.c:60:0[m[K:
+[01m[Kt1asm.c:[m[K In function ‘[01m[Kcharstring_byte[m[K’:
+[01m[Kt1asm.c:374:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 3 has type ‘[01m[Klong unsigned int[m[K’ [-Wformat=]
+     fprintf(stderr, "error: charstring_buf full (%d bytes)\n",
+[01;32m[K                     ^[m[K
+[01m[Kt1asm.c:[m[K In function ‘[01m[Kcharstring_end[m[K’:
+[01m[Kt1asm.c:388:17:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 3 has type ‘[01m[Klong int[m[K’ [-Wformat=]
+   sprintf(line, "%d ", charstring_bp - charstring_buf);
+[01;32m[K                 ^[m[K
+gcc -std=gnu99 -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -c ttf.c
+gcc -std=gnu99 -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -c ft.c
+gcc -std=gnu99 -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -c bdf.c
+gcc -std=gnu99 -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -c bitmap.c
+gcc -std=gnu99 -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -o ttf2pt1 ttf2pt1.o pt1.o runt1asm.o ttf.o ft.o bdf.o bitmap.o -lm  
+make[1]: Leaving directory '/tmp/RtmpAShits/R.INSTALL1a6a5e646a4f/Rttf2pt1/src/ttf2pt1'
+installing via 'install.libs.R' to /usr/local/lib/R/site-library/Rttf2pt1
+[1] ""
+Installing ttf2pt1/ttf2pt1 to /usr/local/lib/R/site-library/Rttf2pt1/exec
+** R
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (Rttf2pt1)
+* installing *source* package ‘extrafont’ ...
+** package ‘extrafont’ successfully unpacked and MD5 sums checked
+** R
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (extrafont)
+* installing *source* package ‘hrbrthemes’ ...
+** package ‘hrbrthemes’ successfully unpacked and MD5 sums checked
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (hrbrthemes)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpo3EKye/downloaded_packages’
+> 

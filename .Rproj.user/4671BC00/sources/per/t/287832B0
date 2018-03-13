@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520922864371.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "287832B0",
+    "lastKnownWriteTime" : 139741055942656,
+    "last_content_update" : 1520922864371,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "130168be4fe443e38a5d0279ba5f63e5",
+        "name" : "app",
+        "title" : "app"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

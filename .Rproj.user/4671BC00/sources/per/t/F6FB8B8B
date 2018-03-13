@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520858548753.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1672725358",
+    "id" : "F6FB8B8B",
+    "lastKnownWriteTime" : 1520923194,
+    "last_content_update" : 1520923194723,
+    "path" : "~/Documents/grades/appr.R",
+    "project_path" : "appr.R",
+    "properties" : {
+        "cursorPosition" : "297,0",
+        "scrollLine" : "280",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
